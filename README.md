@@ -49,7 +49,7 @@
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongzzang&layout=donut&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=20232a&icon_color=A54CF7FF&text_color=fff&title_color=A54CF7FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=seongzzang&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=20232a&icon_color=A54CF7FF&text_color=fff&title_color=A54CF7FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seongzzang&theme=catppuccin_mocha&bg_color=20232a&hide_border=true&line=58A6FF&color=A54CF7FF" width=94%/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=seongzzang&theme=catppuccin_mocha&bg_color=20232a&hide_border=true&line=58A6FF&color=A54CF7FF" width=94%/> -->
  
 
 <br><br>
