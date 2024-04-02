@@ -13,6 +13,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/ios-08253c.svg?style=for-the-badge&logo=ios&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/swift-FF4154?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 
